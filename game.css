@@ -1,0 +1,16 @@
+body{
+    background:#ce4a4a;
+}
+
+#player1_name, #player2_name{
+display: inline-block;
+margin-left: 20px;
+}
+#output{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #aa4465;
+    padding: 10px;
+    float: none;
+text-align: left;
+}
